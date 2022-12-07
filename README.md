@@ -7,6 +7,4 @@ HF are only a subgroup of all the **cardiovascular diseases** that comprehend al
 Machine learning applied to medical records can be useful to  predict the survival of a patient, highlighting patterns and even ranking the features to understand which are **risk factors**, possibly undetectable by doctors.<br>
 In this notebook the analisys will be done starting from an **EDA** to understand the dataset and applying some **preprocessing** to be able to learn properly from it.<br>
 Then will follow a number of **machine learning models** trained on the preprocessed dataset, aiming to predict the **survival** of patients that suffered HF.<br>
-The results are presented at the end of the notebook.
-
-The rendered notebook can be viewed [here](https://nbviewer.jupyter.org/github/lorenzodenisi/Heart-Failure-Clinical-Records/blob/master/Heart%20Failures.ipynb)
+The results are presented at the end of the notebok.
